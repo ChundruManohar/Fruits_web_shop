@@ -10,9 +10,6 @@ Fruit Listing: Users should be able to view a list of available fruits in the sh
 The admin portal should be set up to allow authorized users to manage fruits easily.
 This includes adding new fruits with their names, descriptions, and prices, as well as deleting existing fruits.
 
-# FAST_API
-FAST API USING CURD OPERATIONS
-# CRUD API Using FastAPI
 
 ### 
 for window
