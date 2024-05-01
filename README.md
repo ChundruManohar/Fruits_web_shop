@@ -24,11 +24,9 @@ Step: 3 - virtualenv venv
 
 Step: 4 - venv\Scripts\activate.bat
 
-Step: 5 - go to the fastAPI_crudApp directory location
+Step: 5 - pip install -r requirements.txt (install all library & dependencies)
 
-Step: 6 - pip install -r requirements.txt (install all library & dependencies)
-
-Step: 7 - py manage.py runserver
+Step: 6 - py manage.py runserver
 
 OUTPUT: ADD,LIST,UPDATE,DELETE Fruits IN FRUIT SHOP
 
