@@ -13,7 +13,7 @@ This includes adding new fruits with their names, descriptions, and prices, as w
 
 ### 
 for window
-Step: 1 - git clone 
+Step: 1 - git clone https://chundrumanohar.github.io/Fruits_web_shop/
 
 Step: 2 - pip install virtualenv
 
